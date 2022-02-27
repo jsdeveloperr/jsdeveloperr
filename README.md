@@ -32,6 +32,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux)
 
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jsdeveloperr&count_private=true&show_icons=true&theme=dracula)
+<div>
+  <a href="https://github.com/jsdeveloperr">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jsdeveloperr&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsdeveloperr&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
