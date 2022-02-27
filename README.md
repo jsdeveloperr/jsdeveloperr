@@ -1,7 +1,7 @@
 ### Hi 👨🏽‍💻
 
 ### About me
-**I am a Frontend Developer **
+** I'm a frontend software engineer with a great passion for programming. I develop websites and mobile applications using HTML, CSS and JavaScript **
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jsdeveloperr%20%20-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsdeveloperr/)](https://www.linkedin.com/in/)  [![Twitter Badge](https://img.shields.io/badge/-@Jsdeveloperr___-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)
 ---
@@ -34,8 +34,10 @@
 
 <div>
   <a href="https://github.com/jsdeveloperr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsdeveloperr&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsdeveloperr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsdeveloperr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
-![Snake animation](https://github.com/jsdeveloperr/jsdeveloperr/blob/output/github-contribution-grid-snake.svg)
+
+
+ ![Snake animation](https://github.com/jsdeveloperr/jsdeveloperr/blob/output/github-contribution-grid-snake.svg)
+
