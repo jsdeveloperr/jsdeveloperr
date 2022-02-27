@@ -12,7 +12,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=Vue)
+![Vue](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vuedotjs)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=for-the-badge&logo=React)
 ![Ionic](https://img.shields.io/badge/-Ionic-black?style=for-the-badge&logo=Ionic)
