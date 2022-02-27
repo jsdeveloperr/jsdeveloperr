@@ -34,6 +34,8 @@
 
 <div>
   <a href="https://github.com/jsdeveloperr">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jsdeveloperr&count_private=true&show_icons=true&theme=dracula"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsdeveloperr&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsdeveloperr&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsdeveloperr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
+![Snake animation](https://github.com/jsdeveloperr/jsdeveloperr/blob/output/github-contribution-grid-snake.svg)
