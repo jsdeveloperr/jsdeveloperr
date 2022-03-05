@@ -1,10 +1,16 @@
-### Hi 👨🏽‍💻
+### Hi 👋, I'm jsdeveloperr 👨🏽‍💻
 
 ### About me
 ** I'm a frontend software engineer with a great passion for programming. I develop websites and mobile applications using HTML, CSS and JavaScript **
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jsdeveloperr%20%20-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsdeveloperr/)](https://www.linkedin.com/in/)  [![Twitter Badge](https://img.shields.io/badge/-@Jsdeveloperr___-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsdeveloperr&label=Profile%20views&color=0e75b6&style=flat" alt="jsdeveloperr" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsdeveloperr&theme=tokyonight" alt="jsdeveloperr" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com" target="blank"><img src="https://img.shields.io/twitter/follow/jsdeveloperr?logo=twitter&style=for-the-badge" alt="jsdeveloperr" /></a> </p>
 
 #### Technologies
 
@@ -31,6 +37,11 @@
 ![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux)
+
+<div>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/jsdeveloperr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jsdeveloperr" /></a></p><br><br><br><br>
+</div>
 
 <div>
   <a href="https://github.com/jsdeveloperr">
