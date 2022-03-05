@@ -1,6 +1,5 @@
 ### Hi 👋, I'm jsdeveloperr 👨🏽‍💻
 
-### About me
 ** I'm a frontend software engineer with a great passion for programming. I develop websites and mobile applications using HTML, CSS and JavaScript **
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jsdeveloperr%20%20-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsdeveloperr/)](https://www.linkedin.com/in/)  [![Twitter Badge](https://img.shields.io/badge/-@Jsdeveloperr___-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)
