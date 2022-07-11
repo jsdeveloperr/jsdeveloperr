@@ -1,7 +1,21 @@
 <h1><a id="user-content-hello-folks-" class="anchor" aria-hidden="true" href="#hello-folks-"></a>Hey There, I'm jsdeveloperr <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:30px;!important"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" style="max-width:100%;width:30px;"></a></h1>
 
-
 ** I'm a frontend software engineer with a great passion for programming. I develop websites and mobile applications using HTML, CSS and JavaScript **
+
+```javascript
+const jsdeveloper = {
+  nickname: "jsdeveloper" | "tsdeveloper",
+  skills: ["Frontend Software Engineer"],
+  programming: {
+     languages: ["Javascript", "Typescript", "Node"],
+     databases: ["MySQL", "Mongo DB"],
+     tools: ["React", "Vue", "Svelte", "Nextjs", "Nuxtjs", "React Native", "Redux", "Styled-Components", "HTML5", "CSS3", "Docker"],
+     tests: ["Jest", "Cypress"],
+     architecture: ["Micro Frontend", "MVVP"],
+  },
+  design: ["Figma", "Zeplin"]
+}
+```
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jsdeveloperr%20%20-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsdeveloperr/)](https://www.linkedin.com/in/)  [![Twitter Badge](https://img.shields.io/badge/-@Jsdeveloperr___-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)
 ---
